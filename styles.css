@@ -5,7 +5,8 @@ body{
 }
 
 .header {
-
+   background-color: red;
+   color:whitesmoke;
 }
 
 .hero {
