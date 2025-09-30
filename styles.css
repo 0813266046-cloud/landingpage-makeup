@@ -5,8 +5,12 @@ body{
 }
 
 .header {
-   background-color: red;
+   background-color: fuchsia;
    color:whitesmoke;
+}
+
+.header h2{
+    font: size 30px;;
 }
 
 .hero {
